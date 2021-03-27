@@ -1,0 +1,21 @@
+= References that I find interesting
+Paulo Jerônimo <pj@paulojeronimo.com>, {localdatetime}
+:icons: font
+:idprefix:
+:idsepartor: -
+:nofooter:
+:numbered:
+:sectanchors:
+:toc: left
+
+:uri-git-repo: https://github.com/paulojeronimo/refs
+
+NOTE: You may want to contribute with some references too.
+So, in order to do this, fork {uri-git-repo}[this project^],
+add your references, and sends me a pull request.
+
+:leveloffset: +1
+
+include::python-programming.adoc[]
+
+:leveloffset: -1
