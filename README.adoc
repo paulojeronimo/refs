@@ -2,7 +2,7 @@
 Paulo Jerônimo <pj@paulojeronimo.com>, {localdatetime}
 :icons: font
 :idprefix:
-:idsepartor: -
+:idseparator: -
 :nofooter:
 :numbered:
 :sectanchors:
