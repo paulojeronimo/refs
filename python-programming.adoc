@@ -1,6 +1,30 @@
 [[python]]
 = Python Programming
 
+[[python-installation]]
+== Installation
+
+Articles::
+. https://opensource.com/article/19/5/python-3-default-mac +
+  The right and wrong way to set Python 3 as default on a Mac
+
+[[python-tips-and-tricks]]
+== Tips and Tricks
+
+Videos::
+. https://www.youtube.com/watch?v=C-gEQdGVXbk +
+  10 Python Tips and Tricks For Writing Better Code
+
+[[python-virtual-environments]]
+== Virtual Environments
+
+Videos::
+. https://www.youtube.com/watch?v=Kg1Yvry_Ydk +
+  Python Tutorial: VENV (Mac & Linux) - How to Use Virtual Environments with the Built-In venv Module
+
+. https://www.youtube.com/watch?v=N5vscPTWKOk +
+  Python Tutorial: virtualenv and why you should use virtual environments
+
 [[python-debugging-techniques]]
 == Debugging Techniques
 
