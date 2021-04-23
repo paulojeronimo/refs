@@ -1,0 +1,16 @@
+[[kotlin]]
+= Kotlin Programming
+
+Videos::
+* https://www.youtube.com/watch?v=X1RVYt2QKQE +
+  Introduction to Kotlin (Google I/O '17)
+* https://www.youtube.com/playlist?list=PLQ176FUIyIUa6SChjajjVc-LMzxWiz6dy +
+  Kotlin (by JetBrainsTV)
+* https://www.youtube.com/watch?v=BW2dKuMducc +
+  Kotlin DSL in under an hour w/ Anton Arhipov
+* https://www.youtube.com/watch?v=OSnqyvoPM5g +
+  Kotlin do zero a produção: a experiência do C6 Bank - Eduardo & Rodrigo
+* https://www.youtube.com/playlist?list=PL3jVhh9mXmz_QaIpg1Ov3H9LXnNpL5HB- +
+  Kotlin Koans (by Paulo Jerônimo)
+
+// vim: textwidth=0 colorcolumn=0

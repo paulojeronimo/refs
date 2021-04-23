@@ -16,6 +16,8 @@ add your references, and sends me a pull request.
 
 :leveloffset: +1
 
+include::kotlin-programming.adoc[]
+
 include::python-programming.adoc[]
 
 :leveloffset: -1
