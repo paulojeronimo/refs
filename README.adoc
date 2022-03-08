@@ -20,4 +20,8 @@ include::kotlin-programming.adoc[]
 
 include::python-programming.adoc[]
 
+include::java-asynchronous-programming.adoc[]
+
+include::java-reactive-programming.adoc[]
+
 :leveloffset: -1

@@ -1,0 +1,43 @@
+= Java Reactive Programming
+
+== Fundamentals
+
+Videos::
+
+. https://www.youtube.com/watch?v=nP-UeleMgE4[Exploring reactive programming in Java by Miro Cupak] +
+*Devoxx/Miro Cupak*, Nov 15, 2018
+
+. https://www.youtube.com/watch?v=f3acAsSZPhU[Reactive Programming in Java by Venkat Subramaniam] +
+*Devoxx/Venkat Subramaniam*, Mar 13, 2017
+
+. https://www.youtube.com/watch?v=tiJEL3oiHIY[Reactive Programming Patterns with Java 8 Futures] +
+*Oracle Developers/Josh Suereth*, Jun 5, 2015
+
+. https://www.youtube.com/watch?v=fz31sbwOYq8[Reactive Programming for Java Programmers] +
+*Oracle Developers/Venkat Subramanian*, Jun 2, 2015
+
+== Reactive Java EE
+
+Videos::
+
+. https://www.youtube.com/watch?v=6fV9mUQHlWA[DevLive: Five Ways to Improve Your Java EE Applications in a Reactive Way with Ondro Mihályi] +
+*Oracle Developers*, Aug 8, 2017
+
+. https://www.youtube.com/watch?v=L_Wl20ibj9A[Reactive Java EE] +
+*JFokys/Ola Petersson*, Mar 23, 2017
+
+. https://www.youtube.com/watch?v=vYHGoaIcQoA[Reactive Java EE] +
+*Javaforum Göteborg/Ola Petersson*, Mar 1, 2016
+.. Source code: https://github.com/olbpetersson/reactiveEE
+
+. https://www.youtube.com/watch?v=PqhIadE4Rco[CON2576 Reactive Java EE: Let Me Count the Ways!] +
+*Oracle Developers/Reza Rahman*, Dec 14, 2015
+.. Source code: https://github.com/m-reza-rahman/reactive_javaee
+
+. https://www.youtube.com/watch?v=1DpAdSC4hl4[Devnexus 2015 - Reactive Java EE - Reza Rahman] +
+*Devnexus/Reza Rahman*, Jul 24, 2015
+
+. https://www.youtube.com/watch?v=gWhWnyrxnkU[Think Async: Embrace and Get Addicted to the Asynchronicity of Java SE 8 and Java EE 7] +
+*Oracle Developers/Masoud Kalali*, Jun 2, 2015
+
+// vim: textwidth=0 colorcolumn=0

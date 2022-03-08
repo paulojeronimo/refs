@@ -1,0 +1,50 @@
+= Java Asynchronous Programming
+
+Videos::
+
+. https://www.youtube.com/watch?v=9ueIL0SwEWI[CompletableFuture: The Promises of Java] +
+*Oracle Developers/Venkat Subramanian*, Oct 25, 2018
+
+. https://www.youtube.com/watch?v=0hQvWIdwnw4[Parallel and Asynchronous Programming with Streams and CompletableFuture with Venkat Subramaniam] +
+*Devoxx/Venkat Subramanian*, May 16, 2018
+
+. https://www.youtube.com/watch?v=IwJ-SCfXoAU[Parallel and Asynchronous Programming with Streams and CompletableFuture by Venkat Subramaniam] +
+*Devoxx/Venkat Subramanian*, Nov 8, 2017
+
+. https://www.youtube.com/watch?v=lyJBtg6Dgwc[Asynchronous API with CompletableFuture: Performance Tips and Tricks] +
+*Java/Sergey Kuksenko*, Oct 4, 2017
+
+. https://www.youtube.com/watch?v=x5akmCWgGY0[Parallel Streams, CompletableFuture, and All That: Concurrency in Java 8] +
+*Java/Kenneth Kousen*, Oct 3, 2017
+
+. https://www.youtube.com/watch?v=1QW2m0q_bN4[Think Async in Java 8 by Dmitry Aleksandrov] +
+*Devoxx/Dmitry Aleksandrov*, Aug 2, 2017
+
+. https://www.youtube.com/watch?v=F32XoAPijTo[Devoxx Poland 2016 - Christopher Batey - The Java developers' guide to asynchronous programming] +
+*Devoxx Poland/Cristopher Batey*, Jul 13, 2016
+
+. https://www.youtube.com/watch?v=-MBPQ7NIL_Y[Tomasz Nurkiewicz — CompletableFuture in Java 8, asynchronous processing done right] +
+*JUG.ru/Tomasz Nurkiewicz*, Apr 26, 2016
+.. Source code: https://github.com/nurkiewicz/completablefuture
+
+. https://www.youtube.com/watch?v=HdnHmbFg_hw[Asynchronous programming in Java 8: how to use CompletableFuture by José Paumard] +
+*Devoxx/José Paumard*, Nov 12, 2015
+
+. https://www.youtube.com/watch?v=Q_0_1mKTlnY[New Concurrency Utilities in Java 8 • Angelika Langer • GOTO 2014] +
+*GOTO Conferences/Angelika Langer*, Jun 10, 2015
+
+Playlists::
+
+. https://www.youtube.com/playlist?list=PLZ9NgFYEMxp4n3lpFG0LBnpKhwTkUc6_i[CS 254 (2021) Concurrent Object-Oriented Programming with Java and Android] +
+*Douglas Schmidt*
+
+. https://www.youtube.com/playlist?list=PLZ9NgFYEMxp6ca8KCAjj3HaworY-mqmCe[CS 253 (2020) Parallel Functional Programming with Java and Android] +
+*Douglas Schmidt*
+
+. https://www.youtube.com/playlist?list=PLZ9NgFYEMxp5NbV2NQ2moSX-V_Jv1aiGH[CS 891 (2019) Parallel Functional Programming with Java and Android] +
+*Douglas Schmidt*
+
+. https://www.youtube.com/playlist?list=PLZ9NgFYEMxp5ZOxpx_RVkkktBMd0S5B6Q[CS 891 (2018) Introduction to Parallel Java Programming] +
+*Douglas Schmidt*
+
+// vim: textwidth=0 colorcolumn=0
